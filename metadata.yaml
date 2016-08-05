@@ -1,0 +1,32 @@
+_repo: The-Allis-Family--or-Scenes-of-Western-Life_8083
+_version: 0.0.1
+contributor:
+  publisher_contributor:
+    agent_name: American Sunday-School Union
+    gutenberg_agent_id: '2632'
+    url: http://www.gutenberg.org/2009/agents/2632
+    wikipedia: http://en.wikipedia.org/wiki/American_Missionary_Fellowship
+creator:
+  author:
+    agent_name: Eddy, Velda Allis
+    gutenberg_agent_id: '40309'
+    url: http://www.gutenberg.org/2009/agents/40309
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Prairie animals -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Prairies -- Juvenile fiction'
+- GITenberg
+title: The Allis Family; or, Scenes of Western Life
+url: http://www.gutenberg.org/ebooks/8083
