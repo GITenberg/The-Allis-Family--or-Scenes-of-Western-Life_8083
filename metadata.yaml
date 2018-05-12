@@ -1,17 +1,22 @@
 _repo: The-Allis-Family--or-Scenes-of-Western-Life_8083
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   publisher_contributor:
     agent_name: American Sunday-School Union
     gutenberg_agent_id: '2632'
     url: http://www.gutenberg.org/2009/agents/2632
     wikipedia: http://en.wikipedia.org/wiki/American_Missionary_Fellowship
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eddy, Velda Allis
     gutenberg_agent_id: '40309'
     url: http://www.gutenberg.org/2009/agents/40309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8083#The-Allis-Family--or-Scenes-of-Western-Life
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
